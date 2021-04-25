@@ -1,4 +1,4 @@
-const Clarifai = require('Clarifai');
+const Clarifai = require('clarifai');
 
 const app = new Clarifai.App({apiKey: '6dea541177ff4083b5373cf0424775b3'});
 
